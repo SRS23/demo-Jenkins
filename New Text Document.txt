@@ -8,4 +8,4 @@ build authorization token
 
 http://localhost:1218/buildByToken/build?job=Git%20Project&token=srs2310
 
-This is for authorization in jenninks
+This is for authorization in jenninks.
