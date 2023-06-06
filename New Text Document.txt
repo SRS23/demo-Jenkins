@@ -1,0 +1,10 @@
+JENKINS_URL/job/Git%20Project/build?token=TOKEN_NAME or /buildWithParameters?token=TOKEN_NAME
+
+http://localhost:1218/job/Git%20Project/build?token=srs2310
+
+build authorization token 
+
+ buildByToken/build?job=NAME&token=SECRET
+
+http://localhost:1218/buildByToken/build?job=Git%20Project&token=srs2310
+
