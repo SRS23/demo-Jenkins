@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: demo.jenkins.MavenJenkins.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.503 s - in demo.jenkins.MavenJenkins.AppTest
